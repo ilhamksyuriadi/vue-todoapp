@@ -23,7 +23,7 @@ export default {
         {
           id: 2,
           title: "Todo 2",
-          completed: true
+          completed: false
         },
         {
           id: 3,
